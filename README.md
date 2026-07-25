@@ -52,7 +52,7 @@ A high-performance, full-stack social media platform architected for scale, seam
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinatani07&show_icons=true&theme=radical&count_private=true" alt="Avi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinatani07&show_icons=true&theme=radical" alt="Avi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinatani07&layout=compact&theme=radical&langs_count=8" alt="Avi's Top Languages" />
 </div>
 
