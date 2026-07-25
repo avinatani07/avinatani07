@@ -35,17 +35,17 @@ I'm a passionate Software and DevOps Engineer with expertise across the entire t
 
 ## 🚀 Featured Projects
 
-### [FormFit](https://github.com/avinatani07/FormFit)
-A comprehensive form management and analytics platform designed for seamless user experiences.
-- **Tech Stack:** Next.js, NestJS, TypeScript, Docker, PostgreSQL
-- **Highlights:** Real-time validation, interactive analytics dashboard, containerized backend architecture
-- **Impact:** Streamlined data handling and improved deployment reliability for modern web applications
+### [FormFit](https://formfit-three.vercel.app/)
+A fast, intuitive image and signature resizing utility designed for seamless asset processing.
+- **Tech Stack:** React, TypeScript, Vercel
+- **Highlights:** Engineered a user-friendly client-side application for dynamic image manipulation, enforcing strict type safety and optimized state management.
+- **Impact:** Streamlined the workflow for precise asset sizing, ensuring high-performance rendering and a frictionless end-user experience.
 
-### [ChidKoli](https://github.com/avinatani07/ChidKoli)
-An innovative platform built with cutting-edge technologies for optimal performance and automated delivery.
-- **Tech Stack:** React, Node.js, Vite, CI/CD Automation
-- **Highlights:** Lightning-fast build times, automated end-to-end deployment pipeline
-- **Impact:** Demonstrated full-stack engineering excellence and seamless DevOps practices
+### [ChidKoli](https://www.chidkoli.com/)
+A high-performance, full-stack social media platform architected for scale, seamless user engagement, and continuous delivery.
+- **Tech Stack:** TypeScript, NestJS,  Prisma, PostgreSQL, Redis 
+- **Highlights:** Built a robust, automated end-to-end deployment pipeline that eliminates manual deployment overhead and ensures reliable releases.
+- **Impact:** Handled complex user interactions and API routing while leveraging Vite for optimized frontend builds, slashing local build times and boosting Lighthouse performance scores.
 
 ---
 
