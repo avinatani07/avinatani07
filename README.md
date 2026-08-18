@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/avinatani07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/avinatani07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/avi-natani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 - 🛠️ Also shipped **[FormFit](https://formfit-three.vercel.app/)** — client-side image/signature resizer (React, TypeScript)
 - ⚙️ I automate the boring parts (CI/CD, deploys, backups) so the interesting parts get more attention
 - ♟️ Off-screen: chess and whatever sport is on
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/avinatani07)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/avi-natani/)
 
 ### 🔨 Languages & tools
 <sub>(hover an icon to see its name)</sub>
@@ -38,6 +37,36 @@
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="45" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" height="45" />
 </p>
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avinatani07/avinatani07/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<sub>⚠️ Requires a one-time GitHub Action setup in your `avinatani07/avinatani07` repo — see `snake-workflow.yml` below. Until that Action runs once, this image won't render.</sub>
+
+<details>
+<summary>🎮 Quick puzzle — guess the output</summary>
+
+```js
+console.log(typeof typeof 1);
+```
+
+<details>
+<summary>Answer</summary>
+
+`"string"` — `typeof 1` evaluates to `"number"` (a string value), then `typeof "number"` is `"string"`.
+
+</details>
+</details>
+
+<details>
+<summary>💬 Random dev quote (refresh the page for a new one)</summary>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+
+</details>
 
 ---
 
