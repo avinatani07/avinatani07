@@ -1,42 +1,38 @@
-<h1 align="center">Avi Natani</h1>
-<p align="center">Software & DevOps Engineer — building scalable systems and automating everything.</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Avi+Natani;Software+%2F+DevOps+Engineer;I+build%2C+ship%2C+and+automate" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://formfit-three.vercel.app/"><img src="https://img.shields.io/badge/Live-FormFit-blue" /></a>
-  <a href="https://www.chidkoli.com/"><img src="https://img.shields.io/badge/Live-ChidKoli-blue" /></a>
-  <a href="https://linkedin.com/in/avinatani07"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" /></a>
+  <a href="https://linkedin.com/in/avinatani07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/avinatani07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## What I build
+### 🧐 About me
 
-Backend services and DevOps pipelines that stay up. Node.js/NestJS/Rust on the backend, React/Next.js on the front, Docker + GitHub Actions + AWS to ship it. I like systems where the automation does the boring parts so the code can do the interesting parts.
+- 🔭 Currently building **[ChidKoli](https://www.chidkoli.com/)** — a full-stack social platform (NestJS, Prisma, PostgreSQL, Redis)
+- 🌱 Learning: advanced system design, infra resilience patterns
+- 🛠️ Also shipped **[FormFit](https://formfit-three.vercel.app/)** — client-side image/signature resizer (React, TypeScript)
+- ⚙️ I automate the boring parts (CI/CD, deploys, backups) so the interesting parts get more attention
+- ♟️ Off-screen: chess and whatever sport is on
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/avinatani07)
 
-## Proof
+### 🔨 Languages & tools
 
-**[ChidKoli](https://www.chidkoli.com/)** — full-stack social platform (NestJS, Prisma, PostgreSQL, Redis). Built the CI/CD pipeline end-to-end; Vite-based frontend cut local build times and lifted Lighthouse scores.
-
-**[FormFit](https://formfit-three.vercel.app/)** — client-side image/signature resizing tool (React, TypeScript). Shipped Feb 2026.
-
-## Currently
-
-- Scalable microservices architecture and system design
-- CI/CD pipeline hardening and infra resilience
-- Cross-platform desktop apps with Tauri
-
-## Stack
-
-`Node.js` `NestJS` `Rust` `Java` `React` `Next.js` `TypeScript` `Docker` `GitHub Actions` `AWS` `PostgreSQL` `MongoDB` `Redis`
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=avinatani07&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinatani07&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,rust,java,react,nextjs,ts,docker,githubactions,aws,postgres,mongodb,redis,linux,git" />
 </p>
 
-## Open to
+### 📊 GitHub stats
 
-Full-stack / DevOps collaborations and architecture discussions. Reach me on [LinkedIn](https://linkedin.com/in/avinatani07) or check my [repos](https://github.com/avinatani07?tab=repositories).
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avinatani07&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=avinatani07&theme=radical&hide_border=true" />
+</p>
+
+> Stats widgets above are third-party (Vercel/Heroku-hosted) and occasionally rate-limit or go down — if they show as broken images, they'll usually recover on refresh; it's not something in this file to fix.
 
 ---
-<sub>Off-screen: chess (♟️) and whatever sport is on.</sub>
+
+<p align="center"><sub>Full-stack & DevOps collaborations welcome — check my <a href="https://github.com/avinatani07?tab=repositories">repos</a>.</sub></p>
