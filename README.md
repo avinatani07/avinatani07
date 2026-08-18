@@ -38,35 +38,14 @@
   <img src="https://skillicons.dev/icons?i=git" title="Git" height="45" />
 </p>
 
-### 🐍 Contribution snake
+### ♟️ Daily chess puzzle
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/avinatani07/avinatani07/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<a href="https://lichess.org/training/daily">
+  <img src="https://img.shields.io/badge/Lichess-Solve_today's_puzzle-000000?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess daily puzzle" />
+</a>
 
-<sub>⚠️ Requires a one-time GitHub Action setup in your `avinatani07/avinatani07` repo — see `snake-workflow.yml` below. Until that Action runs once, this image won't render.</sub>
+<sub>Links to Lichess's actual daily puzzle — a new one each day.</sub>
 
-<details>
-<summary>🎮 Quick puzzle — guess the output</summary>
-
-```js
-console.log(typeof typeof 1);
-```
-
-<details>
-<summary>Answer</summary>
-
-`"string"` — `typeof 1` evaluates to `"number"` (a string value), then `typeof "number"` is `"string"`.
-
-</details>
-</details>
-
-<details>
-<summary>💬 Random dev quote (refresh the page for a new one)</summary>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
-
-</details>
 
 ---
 
