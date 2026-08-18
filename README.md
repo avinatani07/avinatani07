@@ -19,19 +19,25 @@
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/avinatani07)
 
 ### 🔨 Languages & tools
+<sub>(hover an icon to see its name)</sub>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,rust,java,react,nextjs,ts,docker,githubactions,aws,postgres,mongodb,redis,linux,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45" />
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="45" />
+  <img src="https://skillicons.dev/icons?i=rust" title="Rust" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="45" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="45" />
 </p>
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avinatani07&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=avinatani07&theme=radical&hide_border=true" />
-</p>
-
-> Stats widgets above are third-party (Vercel/Heroku-hosted) and occasionally rate-limit or go down — if they show as broken images, they'll usually recover on refresh; it's not something in this file to fix.
 
 ---
 
